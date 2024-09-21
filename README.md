@@ -37,5 +37,9 @@ You should configure the maps and channel names in config.yaml if the provided o
 
 
 `How to set the token` : $env:YOUR_BOT_TOKEN="GET_THE_TOKEN_FROM_DISCORD_BOT_IN_THE_NEW_APP"
-
 `In the end just run the main file` : python main.py
+`Download and Install python first` : https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe
+`Remember there will be 2 checkboxes when you open the .exe file check them both they are important or your code wont work in other terminals`
+`Install discord.py` : pip install discord.py>=1.3.3
+`Install yaml` : pip install pyyaml>=4.2b1
+
